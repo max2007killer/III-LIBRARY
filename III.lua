@@ -47,7 +47,7 @@ local ListenForInput = false
 -- Directory
 
 local Directory = SelfModules.Directory.Create({
-	["Vynixius UI Library"] = {
+	["III Library"] = {
 		"Configs",
 	},
 })
@@ -83,7 +83,7 @@ end
 -- Functions
 
 local ScreenGui = SelfModules.UI.Create("ScreenGui", {
-	Name = "Vynixius UI Library",
+	Name = "III LIBRARY",
 	ZIndexBehavior = Enum.ZIndexBehavior.Sibling,
 })
 
