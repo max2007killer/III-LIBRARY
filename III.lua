@@ -8,6 +8,14 @@ local Library = {
 		BackgroundColor = Color3.fromRGB(10, 10, 10),
 		SectionColor = Color3.fromRGB(20, 20, 20),
 		TextColor = Color3.fromRGB(255, 255, 255),
+		
+        III = {
+		Accent = Color3.fromRGB(0, 255, 0),
+		TopbarColor = Color3.fromRGB(20, 20, 20),
+		SidebarColor = Color3.fromRGB(15, 15, 15),
+		BackgroundColor = Color3.fromRGB(10, 10, 10),
+		SectionColor = Color3.fromRGB(20, 20, 20),
+		TextColor = Color3.fromRGB(255, 255, 255),
 	},
 	Notif = {
 		Active = {},
@@ -306,7 +314,7 @@ function Library:AddWindow(options)
 	Window.Frame = SelfModules.UI.Create("Frame", {
 		Name = "Window",
 		BackgroundTransparency = 1,
-		Size = UDim2.new(0, 200, 0, 497),
+		Size = UDim2.new(0, 460, 0, 497),
 		Position = UDim2.new(1, -490, 1, -527),
 		Visible = options.default ~= false,
 
