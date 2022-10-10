@@ -2,12 +2,12 @@
 
 local Library = {
 	Theme = {
-		Accent = Color3.fromRGB(0, 255, 0),
-		TopbarColor = Color3.fromRGB(20, 20, 20),
-		SidebarColor = Color3.fromRGB(15, 15, 15),
-		BackgroundColor = Color3.fromRGB(10, 10, 10),
+		Accent = Color3.fromRGB(240, 128, 128),
+		TopbarColor = Color3.fromRGB(139, 0, 0),
+		SidebarColor = Color3.fromRGB(128, 128, 128),
+		BackgroundColor = Color3.fromRGB(205, 92, 92),
 		SectionColor = Color3.fromRGB(20, 20, 20),
-		TextColor = Color3.fromRGB(255, 255, 255),
+		TextColor = Color3.fromRGB(220, 60, 60),
 		
         III = {
 		Accent = Color3.fromRGB(0, 255, 0),
