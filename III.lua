@@ -8,8 +8,9 @@ local Library = {
 		BackgroundColor = Color3.fromRGB(205, 92, 92),
 		SectionColor = Color3.fromRGB(20, 20, 20),
 		TextColor = Color3.fromRGB(220, 60, 60),
-		
+	},	
         III = {
+	},
 		Accent = Color3.fromRGB(0, 255, 0),
 		TopbarColor = Color3.fromRGB(20, 20, 20),
 		SidebarColor = Color3.fromRGB(15, 15, 15),
